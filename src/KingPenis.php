@@ -13,4 +13,10 @@ class KingPenis
     {
         return mb_strlen($s);
     }
+
+    public function printPenis()
+    {
+        $penis ='εつ▄█▀█●';
+        return $penis;
+    }
 }
