@@ -1,0 +1,10 @@
+{
+    "name": "cnnom/lib-penis",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Cnnom\\LibPenis\\": "src/"
+        }
+    },
+    "require": {}
+}
